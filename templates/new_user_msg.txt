@@ -1,0 +1,2 @@
+You've just received a new user! Congratulations!
+Be sure to check out the database for more information!
